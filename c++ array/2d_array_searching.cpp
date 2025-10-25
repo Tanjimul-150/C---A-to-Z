@@ -23,7 +23,7 @@ int main()
             if (arr[i][j] == key)
             {
                 f = 1;
-                cout << "Key found at position : " << "(" << i << "," << j << ")" << endl;
+                cout << "Key found at position : " <<"(" << i << "," << j <<")"<< endl;
                 break;
             }
         }
